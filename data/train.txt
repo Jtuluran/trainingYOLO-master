@@ -125,6 +125,11 @@ data/img/GOPR0222.JPG
 data/img/GOPR0223.JPG
 data/img/GOPR0225.JPG
 data/img/GOPR0226.JPG
+data/img/GOPR0252.JPG
+data/img/GOPR0253.JPG
+data/img/GOPR0254.JPG
+data/img/GOPR0255.JPG
+data/img/GOPR0256.JPG
 data/img/VideoCapture_20200721-160222.jpg
 data/img/VideoCapture_20200721-160228.jpg
 data/img/VideoCapture_20200721-160232.jpg
