@@ -24,6 +24,27 @@ data/img/20200722_104832.jpg
 data/img/20200722_104906.jpg
 data/img/20200722_104923.jpg
 data/img/20200722_104943.jpg
+data/img/24 21.8.2020 dengan pakan baru 25.1.0.JPG
+data/img/25 21.8.2020 dengan pakan baru 25.10.20.JPG
+data/img/26 21.8.2020 dengan pakan baru 25.20.40.JPG
+data/img/27 21.8.2020 dengan pakan baru 50.1.0.JPG
+data/img/28 21.8.2020 dengan pakan baru 50.10.15.JPG
+data/img/29 21.8.2020 dengan pakan baru 50.20.30.JPG
+data/img/30 21.8.2020 dengan pakan baru 20 dalam air.JPG
+data/img/30 21.8.2020 dengan pakan baru 25 diatas air.JPG
+data/img/31 21.8.2020 dengan daun dan ranting 20 dalam air 2.JPG
+data/img/31 21.8.2020 dengan daun dan ranting 20 dalam air1.JPG
+data/img/32 8.2020 dengan daun ranting 25 diatas air.JPG
+data/img/33 21.8.2020 dengan daun dan ranting 25.1.0.JPG
+data/img/34 21.8.2020 dengan daun dan ranting 25.10.20.JPG
+data/img/35 21.8.2020 dengan daun dan ranting 25.20.40.JPG
+data/img/37 21.8.2020 dengan daun dan ranting 50.10.15.JPG
+data/img/38 21.8.2020 dengan daun dan ranting 50.20.30.JPG
+data/img/39 21.8.2020 dengan daun dan ranting batu 25 diatas air.JPG
+data/img/40 21.8.2020 dengan daun dan ranting batu 20 didalam air.JPG
+data/img/41 21.8.2020 dengan daun dan ranting batu 25.1.0.JPG
+data/img/42 21.8.2020 dengan daun dan ranting batu 25.10.20.JPG
+data/img/43 21.8.2020 dengan daun dan ranting batu 25.20.40.JPG
 data/img/GOPR0102.JPG
 data/img/GOPR0103.JPG
 data/img/GOPR0104.JPG
@@ -247,24 +268,23 @@ data/img/VideoCapture_20200722-113434.jpg
 data/img/VideoCapture_20200805-144641.jpg
 data/img/VideoCapture_20200805-144644.jpg
 data/img/VideoCapture_20200805-144710.jpg
-data/img/24 21.8.2020 dengan pakan baru 25.1.0.JPG
-data/img/25 21.8.2020 dengan pakan baru 25.10.20.JPG
-data/img/26 21.8.2020 dengan pakan baru 25.20.40.JPG
-data/img/27 21.8.2020 dengan pakan baru 50.1.0.JPG
-data/img/28 21.8.2020 dengan pakan baru 50.10.15.JPG
-data/img/29 21.8.2020 dengan pakan baru 50.20.30.JPG
-data/img/30 21.8.2020 dengan pakan baru 20 dalam air.JPG
-data/img/30 21.8.2020 dengan pakan baru 25 diatas air.JPG
-data/img/31 21.8.2020 dengan daun dan ranting 20 dalam air 2.JPG
-data/img/31 21.8.2020 dengan daun dan ranting 20 dalam air1.JPG
-data/img/32 8.2020 dengan daun ranting 25 diatas air.JPG
-data/img/33 21.8.2020 dengan daun dan ranting 25.1.0.JPG
-data/img/34 21.8.2020 dengan daun dan ranting 25.10.20.JPG
-data/img/35 21.8.2020 dengan daun dan ranting 25.20.40.JPG
-data/img/37 21.8.2020 dengan daun dan ranting 50.10.15.JPG
-data/img/38 21.8.2020 dengan daun dan ranting 50.20.30.JPG
-data/img/39 21.8.2020 dengan daun dan ranting batu 25 diatas air.JPG
-data/img/40 21.8.2020 dengan daun dan ranting batu 20 didalam air.JPG
-data/img/41 21.8.2020 dengan daun dan ranting batu 25.1.0.JPG
-data/img/42 21.8.2020 dengan daun dan ranting batu 25.10.20.JPG
-data/img/43 21.8.2020 dengan daun dan ranting batu 25.20.40.JPG
+data/img/GOPR0248.JPG
+data/img/GOPR0247.JPG
+data/img/GOPR0246.JPG
+data/img/GOPR0245.JPG
+data/img/GOPR0244.JPG
+data/img/GOPR0243.JPG
+data/img/GOPR0242.JPG
+data/img/GOPR0241.JPG
+data/img/GOPR0240.JPG
+data/img/GOPR0239.JPG
+data/img/GOPR0238.JPG
+data/img/GOPR0235.JPG
+data/img/GOPR0234.JPG
+data/img/GOPR0233.JPG
+data/img/GOPR0232.JPG
+data/img/GOPR0231.JPG
+data/img/GOPR0230.JPG
+data/img/GOPR0229.JPG
+data/img/GOPR0228.JPG
+data/img/GOPR0227.JPG
