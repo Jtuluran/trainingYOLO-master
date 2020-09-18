@@ -288,3 +288,5 @@ data/img/VideoCapture_20200722-113434.jpg
 data/img/VideoCapture_20200805-144641.jpg
 data/img/VideoCapture_20200805-144644.jpg
 data/img/VideoCapture_20200805-144710.jpg
+data/img/GOPR0324.JPG
+data/img/GOPR0325.JPG
