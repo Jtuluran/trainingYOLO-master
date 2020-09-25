@@ -173,6 +173,11 @@ data/img/GOPR0255.JPG
 data/img/GOPR0256.JPG
 data/img/GOPR0324.JPG
 data/img/GOPR0325.JPG
+data/img/GOPR0393.JPG
+data/img/GOPR0394.JPG
+data/img/GOPR0395.JPG
+data/img/GOPR0396.JPG
+data/img/GOPR0397.JPG
 data/img/VideoCapture_20200721-160222.jpg
 data/img/VideoCapture_20200721-160228.jpg
 data/img/VideoCapture_20200721-160232.jpg
@@ -284,7 +289,6 @@ data/img/VideoCapture_20200722-111927.jpg
 data/img/VideoCapture_20200722-111937.jpg
 data/img/VideoCapture_20200722-112216.jpg
 data/img/VideoCapture_20200722-113356.jpg
-data/img/VideoCapture_20200722-113418.jpg
 data/img/VideoCapture_20200722-113424.jpg
 data/img/VideoCapture_20200722-113434.jpg
 data/img/VideoCapture_20200805-144641.jpg
